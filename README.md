@@ -1,7 +1,7 @@
 # Tip-Calc-GUI-Project
 
 **Summary:** 
-First attempt at Java GUI, or Graphical User Interface, and learning how to add buttons, drop down events and more user interactions.
+This project was my first attempt at Java GUI, or Graphical User Interface, and learning how to add buttons, drop down events and more user interactions.
 This application simulates a tip calculator based on 20% percent. This is done by utilizing text fields, labels, actions, scenes and event handlers.
 
 
@@ -115,6 +115,4 @@ public class TipCalculatorGUI_kimberly_gonzalez extends Application
       }
     }    
 }
-
-
 ```
